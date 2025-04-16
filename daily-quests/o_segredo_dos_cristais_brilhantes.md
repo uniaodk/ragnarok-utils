@@ -1,7 +1,6 @@
-# A Lenda do Pescador Perdido
+# O Segredo dos Cristais Brilhantes
 
-## O Segredo dos Cristais Brilhantes
-Seguir essa ordem: 
+## Seguir essa ordem: 
 
 ```
 /navi geffen 115/95
