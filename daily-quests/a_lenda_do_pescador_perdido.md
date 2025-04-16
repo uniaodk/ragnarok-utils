@@ -9,3 +9,8 @@ Seguir essa ordem:
 ```
 /navi pay_fild02 126/134
 ```
+
+Voltar a falar com o NPC inicial:
+```
+/navi alberta 119/63
+```
