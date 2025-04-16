@@ -15,5 +15,11 @@
 ```
 
 ```
-/navi geffen 117/168
+/navi geffen 177/168
+```
+
+Voltar a falar com o primeiro NPC:
+
+```
+/navi geffen 115/95
 ```
