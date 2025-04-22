@@ -9,6 +9,7 @@
 - [Espíritos do Pântano](./espiritos_do_pantano.md)
 - [Espreitadores do Abismo](./espreitadores_do_abismo.md)
 - [Guardiões do Tesouro](./guardioes_do_tesouro.md)
+- [Invasão da Fazenda](./invasao_da_fazenda.md)
 - [Mensagem Codificada](./mensagem_codificada.md)
 - [O Ataque dos Lobos](./o_ataque_dos_lobos.md)
 - [O Cemitério Agitado](./o_cemitério_agitado.md)
