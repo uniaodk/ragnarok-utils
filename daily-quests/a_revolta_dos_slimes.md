@@ -1,4 +1,4 @@
-# Ameaça do Gelo
+# A Revolta dos Slimes
 
 ## Matar os monstros
 
