@@ -10,5 +10,5 @@
 ## Entregar a missão na rota
 
 ```
-/navi alberta 190/120
+/navi alberta 192/120
 ```
