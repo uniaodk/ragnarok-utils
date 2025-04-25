@@ -10,6 +10,6 @@
 ## Entregar a missão na rota
 
 ```
-/navi prt_field03 110/90
+/navi prt_fild03 110/90
 ```
 
