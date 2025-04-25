@@ -1,13 +1,17 @@
 # Quests Diárias
 
+- [A Batalha Contra os Orcs](./a_batalha_contra_os_orcs.md)
 - [A Lenda do Pescador Perdido](./a_lenda_do_pescador_perdido.md)
 - [A Praga dos Gatos Selvagens](./a_praga_dos_gatos_selvagens.md)
+- [A Revolta das Aranhas](./a_revolta_das_aranhas.md)
 - [A Revolta dos Slimes](./a_revolta_dos_slimes.md)
 - [Ameaça do Gelo](./ameaca_do_gelo.md)
 - [Ameaça nas Docas](./ameaca_nas_docas.md)
 - [As Sombras de Prontera](./as_sombras_de_prontera.md)
+- [Caça a Águia Dourada](./caca_a_aguia_dourada.md)
 - [Caçada a Serpente](./cacada_a_serpente.md)
 - [Caçadores Noturno](./cacadores_noturno.md)
+- [Emboscada dos Ladrões](./emboscada_dos_ladroes.md)
 - [Espíritos do Pântano](./espiritos_do_pantano.md)
 - [Espreitadores do Abismo](./espreitadores_do_abismo.md)
 - [Guardiões do Tesouro](./guardioes_do_tesouro.md)
