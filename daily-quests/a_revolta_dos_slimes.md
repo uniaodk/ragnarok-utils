@@ -1,3 +1,5 @@
+[Home](../README.md) > [Quests Diárias](./README.md) > A Revolta dos Slimes
+
 # A Revolta dos Slimes
 
 ## Matar os monstros

@@ -1,3 +1,5 @@
+[Home](../README.md) > [Quests Diárias](./README.md) > O Ritual Sombrio
+
 # O Ritual Sombrio
 
 ## Matar os monstros

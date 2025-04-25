@@ -1,3 +1,5 @@
+[Home](../README.md) > [Quests Diárias](./README.md) > O Segredo dos Cristais Brilhantes
+
 # O Segredo dos Cristais Brilhantes
 
 ## Seguir essa ordem: 

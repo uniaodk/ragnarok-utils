@@ -1,3 +1,5 @@
+[Home](../README.md) > Quests Diárias
+
 # Quests Diárias
 
 - [A Batalha Contra os Orcs](./a_batalha_contra_os_orcs.md)

@@ -1,4 +1,6 @@
-#  Emboscada dos Ladrões
+[Home](../README.md) > [Quests Diárias](./README.md) > Emboscada dos Ladrões
+
+# Emboscada dos Ladrões
 
 ## Matar os monstros
 

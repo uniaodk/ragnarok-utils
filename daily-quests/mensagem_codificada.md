@@ -1,3 +1,5 @@
+[Home](../README.md) > [Quests Diárias](./README.md) > Mensagem Codificada
+
 # Mensagem Codificada
 
 ## Iniciar a quest com NPC
