@@ -19,6 +19,7 @@
 - [Guardiões do Tesouro](./guardioes_do_tesouro.md)
 - [Invasão da Fazenda](./invasao_da_fazenda.md)
 - [Mensagem Codificada](./mensagem_codificada.md)
+- [O Alerta dos Orcs](./o_alerta_dos_orcs.md)
 - [O Ataque dos Lobos](./o_ataque_dos_lobos.md)
 - [O Cemitério Agitado](./o_cemitério_agitado.md)
 - [O Despertar dos Dragões](./o_despertar_dos_dragoes.md)
