@@ -13,5 +13,5 @@
 ## Entregar a missão na rota
 
 ```
-/navi gef_field06 113/217
+/navi gef_fild06 113/217
 ```
