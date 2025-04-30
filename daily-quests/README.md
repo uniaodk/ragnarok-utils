@@ -4,6 +4,7 @@
 
 - [A Batalha Contra os Orcs](./a_batalha_contra_os_orcs.md)
 - [A Lenda do Pescador Perdido](./a_lenda_do_pescador_perdido.md)
+- [A Patrulha da Montanha](./a_patrulha_da_montanha.md)
 - [A Praga dos Gatos Selvagens](./a_praga_dos_gatos_selvagens.md)
 - [A Revolta das Aranhas](./a_revolta_das_aranhas.md)
 - [A Revolta dos Slimes](./a_revolta_dos_slimes.md)
@@ -27,6 +28,7 @@
 - [O Exército das Formigas](./o_exercito_das_formigas.md)
 - [O Ritual Sombrio](./o_ritual_sombrio.md)
 - [O Segredo dos Cristais Brilhantes](./o_segredo_dos_cristais_brilhantes.md)
+- [O Vale Assombrado](./o_vale_assombrado.md)
 - [O Vale da Agonia](./o_vale_da_agonia.md)
 - [Os Golpes dos Ladrões](./os_golpes_dos_ladroes.md)
 - [Os Guardiões de Cristal](./os_guardioes_de_cristal.md)
