@@ -33,4 +33,5 @@
 - [Os Golpes dos Ladrões](./os_golpes_dos_ladroes.md)
 - [Os Guardiões de Cristal](./os_guardioes_de_cristal.md)
 - [Os Invasores Alados](./os_invasores_alados.md)
+- [Os Ratos do Subsolo](./os_ratos_do_subsolo.md)
 - [Perigo nas Planícies](./perigo_nas_planicies.md)
