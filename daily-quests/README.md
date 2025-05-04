@@ -26,6 +26,7 @@
 - [O Cemitério Agitado](./o_cemitério_agitado.md)
 - [O Despertar dos Dragões](./o_despertar_dos_dragoes.md)
 - [O Exército das Formigas](./o_exercito_das_formigas.md)
+- [O Mistério das Ervas Perdidas](./o_misterio_das_ervas_perdidas.md)
 - [O Ritual Sombrio](./o_ritual_sombrio.md)
 - [O Segredo dos Cristais Brilhantes](./o_segredo_dos_cristais_brilhantes.md)
 - [O Vale Assombrado](./o_vale_assombrado.md)
