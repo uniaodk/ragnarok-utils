@@ -13,5 +13,5 @@
 ## Entregar a missão na rota
 
 ```
-/navi morocc 50/142
+/navi morocc 50/141
 ```
